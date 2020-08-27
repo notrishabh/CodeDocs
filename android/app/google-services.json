@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737736357100",
+    "firebase_url": "https://codedocs-12ce7.firebaseio.com",
+    "project_id": "codedocs-12ce7",
+    "storage_bucket": "codedocs-12ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737736357100:android:2886715786c223d916a1c9",
+        "android_client_info": {
+          "package_name": "com.codedocs.cbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737736357100-9003tuto43hmf1l6gh84hp8butemc2s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCMwPJIb6HCFcVctbmIBVEcoUtf1uog4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737736357100-9003tuto43hmf1l6gh84hp8butemc2s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
